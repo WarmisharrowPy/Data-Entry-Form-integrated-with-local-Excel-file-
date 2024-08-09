@@ -17,6 +17,16 @@ Learn all the above commands on terminal. Make sure to use `pip3`, because in li
 
 In case any error pops up install this - `pip3 install tkinter`
 
+**After installation**
+
+**Steps to be followed**
+
+Step 1: Create a local Excel sheet in your PC. 
+
+Step 2: Now go to properties and copy the file path and attach it into the Code. py file. 
+
+Now test your code.
+
 **Issues**
 
 If you encounter any problems feel free to open a new issue. Before that check other closed issues and check if your issue matches with any older issues.
